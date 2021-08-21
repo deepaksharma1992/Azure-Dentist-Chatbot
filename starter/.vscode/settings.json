@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5f420352-f471-4def-a539-e35275f7a23c/resourceGroups/aind-155240/providers/Microsoft.Web/sites/dental-office-assistant-webapp",
+    "appService.deploySubpath": "."
+}
